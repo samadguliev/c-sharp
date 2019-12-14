@@ -1,0 +1,41 @@
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Vladimir\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\mscorlib.dll
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normidna.nlp
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfc.nlp
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfd.nlp
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfkc.nlp
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfkd.nlp
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Popov\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\Users\Nikita\Desktop\Popov\1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Nikita\Desktop\Popov\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Nikita\Desktop\Popov\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Student\Desktop\C Sharp 2\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Samad\Desktop\C Sharp v3\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Samad\Desktop\C Sharp v3\1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
